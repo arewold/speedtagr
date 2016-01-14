@@ -1,0 +1,1 @@
+A fast way to tag your untagged flickr images, this simple program fetches your untagged photos, one by one, and lets you tag them. Not the most efficient way to tag if you have a zillion photos with the same content, but for series of varied photos this aims to be quite a bit faster than flickr organizr.
